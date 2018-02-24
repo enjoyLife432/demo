@@ -1,0 +1,138 @@
+[
+    {
+        "title": "鲜果超市",
+        "img": "item/鲜果超市.jpg",
+        "sales": 188,
+        "time": "30min",
+        "price": 20,
+        "dispatch": 5,
+        "back": "实际支付30元返12元商品",
+        "special": "美团专送",
+        "distance": "1.7km"
+    },
+    {
+        "title": "每日优鲜",
+        "img": "item/每日优鲜.jpg",
+        "sales": 505,
+        "time": "30min",
+        "price": 29,
+        "dispatch": 3.5,
+        "special": "美团专送",
+        "distance": "2.9km",
+        "brand": "品",
+        "ticket": "本店支持开发票，开票金额200元起"
+    },
+    {
+        "title": "食为鲜",
+        "img": "item/食为鲜.jpg",
+        "sales": 171,
+        "time": "30min",
+        "price": 15,
+        "dispatch": 3,
+        "distance": "2.2km",
+        "brand": "品"
+    },
+    {
+        "title": "天鲜果行",
+        "img": "item/天鲜果行.jpg",
+        "sales": 742,
+        "time": "30min",
+        "price": 20,
+        "dispatch": 2.5,
+        "distance": "569m"
+    },
+    {
+        "title": "龙锦综合市场",
+        "img": "item/龙锦综合市场.jpg",
+        "sales": 31,
+        "time": "33min",
+        "price": 20,
+        "dispatch": 3,
+        "distance": "2.2km"
+    },
+    {
+        "title": "鲜果源",
+        "img": "item/鲜果源.jpg",
+        "sales": 0,
+        "time": "30min",
+        "price": 20,
+        "dispatch": 3,
+        "special": "美团专送",
+        "distance": "2.1km",
+        "new": "新店"
+    },
+    {
+        "title": "果蔬大卖场",
+        "img": "item/果蔬大卖场.jpg",
+        "sales": 93,
+        "time": "30min",
+        "price": 20,
+        "dispatch": 4,
+        "special": "美团专送",
+        "distance": "1.1km",
+        "ling": "可领2元代金券"
+    },
+    {
+        "title": "老兵精选水果批发配送",
+        "img": "item/老兵精选水果批发.jpg",
+        "sales": 469,
+        "time": "50min",
+        "price": 99,
+        "dispatch": 10,
+        "back": "实际支付49元返10元商品",
+        "distance": "7.2km",
+        "ling": "可领19~39元代金券",
+        "new": "新店",
+        "activity": "3个活动"
+    },
+    {
+        "title": "果蔬店",
+        "img": "item/果蔬店.jpg",
+        "sales": 11,
+        "time": "30min",
+        "price": 0,
+        "dispatch": 3,
+        "distance": "364m"
+    },
+    {
+        "title": "鲜果超市",
+        "img": "item/鲜果超市2.jpg",
+        "sales": 131,
+        "time": "58min",
+        "price": 49,
+        "dispatch": 5,
+        "distance": "7.0km"
+    },
+    {
+        "title": "果腿儿鲜果切",
+        "img": "item/果腿儿鲜果切.jpg",
+        "sales": 999,
+        "time": "64min",
+        "price": 30,
+        "dispatch": 10,
+        "distance": "9.2km",
+        "brand": "品",
+        "ticket": "本店支持开发票，开票金额200元起"
+    },
+    {
+        "title": "欣欣果园",
+        "img": "item/欣欣果行.jpg",
+        "sales": 249,
+        "time": "68min",
+        "price": 200,
+        "dispatch": 10,
+        "distance": "9.1km",
+        "ticket": "本店支持开发票，开票金额200元起",
+        "ling": "本店新客可领4元代金券"
+    },
+    {
+        "title": "鲜多多海鲜",
+        "img": "item/鲜多多海鲜.jpg",
+        "sales": 120,
+        "time": "73min",
+        "price": 50,
+        "dispatch": 10,
+        "distance": "10.6km",
+        "ling": "本店新客可领15元代金券"
+    }
+]

@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    font-size: 14px;
+    color: #666;
+}
+.clearfix::after {
+    content: "";
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    clear: both;
+    height: 0;
+}
+span {
+    font-size: 12px;
+}
+p {
+    margin-bottom:5px;
+}
+.position(@top: 12px) {
+    position: absolute;
+    top: @top;
+}

@@ -1,0 +1,150 @@
+[
+    {
+        "title": "达牛美比萨",
+        "img": "store/07daniumei.webp",
+        "sales": "555+",
+        "time": "30min",
+        "price": 29,
+        "dispatch": 5,
+        "back": "实际支付50元返2元商家代金券",
+        "distance": "1.4km",
+        "ling": "可领2元代金券"
+    },
+    {
+        "title": "嘉和一品粥",
+        "img": "store/11jiahe.webp",
+        "sales": "666+",
+        "time": "30min",
+        "price": 15,
+        "dispatch": 3,
+        "distance": "679m",
+        "brand": "品",
+        "ticket": "本店支持开发票，开票金额200元起"
+    },
+    {
+        "title": "田老师红烧肉",
+        "img": "store/09tianlaoshi.webp",
+        "sales": "999+",
+        "time": "30min",
+        "price": 20,
+        "dispatch": 5,
+        "special": "美团专送",
+        "distance": "2.0km",
+        "brand": "品",
+        "ticket": "本店支持开发票，开票金额200元起"
+    },
+    {
+        "title": "台资味",
+        "img": "store/06taiziwei.webp",
+        "sales": "999+",
+        "time": "30min",
+        "price": 20,
+        "dispatch": 5,
+        "special": "美团专送",
+        "distance": "361m",
+        "brand": "品",
+        "ticket": "本店支持开发票，开票金额200元起"
+    },
+    {
+        "title": "德克士",
+        "img": "store/08dks.webp",
+        "sales": "999+",
+        "time": "30min",
+        "price": 20,
+        "dispatch": 5,
+        "special": "美团专送",
+        "distance": "658m",
+        "brand": "品"
+    },
+    {
+        "title": "葵中酸菜鱼",
+        "img": "store/03kuizhong.webp",
+        "sales": "999+",
+        "time": "30min",
+        "price": 20,
+        "dispatch": 5,
+        "back": "实际支付45元返3元商家代金券",
+        "special": "美团专送",
+        "distance": "728m",
+        "brand": "品",
+        "ticket": "本店支持开发票，开票金额200元起"
+    },
+    {
+        "title": "KAO烤肉饭",
+        "img": "store/10kaoroufan.webp",
+        "sales": "999+",
+        "time": "30min",
+        "price": 15,
+        "dispatch": 3,
+        "distance": "2.3km",
+        "ticket": "本店支持开发票，开票金额200元起"
+    },
+    {
+        "title": "金手勺东北菜",
+        "img": "store/19炒菜.webp",
+        "sales": "999+",
+        "time": "30min",
+        "price": 20,
+        "dispatch": 5,
+        "special": "美团专送",
+        "distance": "2.0km"
+    },
+    {
+        "title": "小牛锅贴",
+        "img": "store/13xiaoniu.webp",
+        "sales": "999+",
+        "time": "30min",
+        "price": 20,
+        "dispatch": 5,
+        "back": "实际支付80元返10元商家代金券",
+        "special": "美团专送",
+        "distance": "2.1km",
+        "brand": "品牌",
+        "ling": "可领10元代金券"
+    },
+    {
+        "title": "华莱士炸鸡汉堡",
+        "img": "store/14hualaishi.webp",
+        "sales": "999+",
+        "time": "30min",
+        "price": 20,
+        "dispatch": 5,
+        "special": "美团专送",
+        "distance": "494km",
+        "ticket": "本店支持开发票，开票金额200元起"
+    },
+    {
+        "title": "庆丰包子铺",
+        "img": "store/01qingfeng.webp",
+        "sales": "999+",
+        "time": "30min",
+        "price": 27,
+        "dispatch": 5,
+        "special": "美团专送",
+        "distance": "371km",
+        "brand": "品牌"
+    },
+    {
+        "title": "吉野家",
+        "img": "store/02jiyejia.webp",
+        "sales": "999+",
+        "time": "43min",
+        "price": 0,
+        "dispatch": 7,
+        "special": "美团专送",
+        "distance": "3.5km",
+        "brand": "品牌",
+        "ticket": "本店支持开发票，开票金额200元起"
+    },
+    {
+        "title": "熊三拌饭",
+        "img": "store/12xiongsan.webp",
+        "sales": "999+",
+        "time": "30min",
+        "price": 20,
+        "dispatch": 5,
+        "special": "美团专送",
+        "distance": "1.8km",
+        "ticket": "本店支持开发票，开票金额200元起"
+    }
+]
