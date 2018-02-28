@@ -591,6 +591,7 @@ export default {
         },
         // 排序情况
         sortData() {
+            // debugger
             if (this.$route.params.id == 0) {
                 this.showMiddle = '综合排序';
                 this.sort_show = false; 
